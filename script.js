@@ -74,7 +74,7 @@ const sendMessagesRandomly = () => {
 };
 
 // Example usage
-let phoneNumbers = ['+918287936541', '+919810937987', '+917428304243'];
+let phoneNumbers = ['+91XXXXXXXXXX', '+91XXXXXXXXX', '+91XXXXXXXXXX'];// enter the number along with the country code
 let message = "Hello, this is an automated message from WhatsApp Web!";
 sendMessagesRandomly();
 
